@@ -1,0 +1,15 @@
+C:\Users\N\Desktop\Разработчик файлы\ExampleFolder\EXAMPLE101_HELLO\bin\Debug\net6.0\EXAMPLE101_HELLO.exe
+C:\Users\N\Desktop\Разработчик файлы\ExampleFolder\EXAMPLE101_HELLO\bin\Debug\net6.0\EXAMPLE101_HELLO.deps.json
+C:\Users\N\Desktop\Разработчик файлы\ExampleFolder\EXAMPLE101_HELLO\bin\Debug\net6.0\EXAMPLE101_HELLO.runtimeconfig.json
+C:\Users\N\Desktop\Разработчик файлы\ExampleFolder\EXAMPLE101_HELLO\bin\Debug\net6.0\EXAMPLE101_HELLO.dll
+C:\Users\N\Desktop\Разработчик файлы\ExampleFolder\EXAMPLE101_HELLO\bin\Debug\net6.0\EXAMPLE101_HELLO.pdb
+C:\Users\N\Desktop\Разработчик файлы\ExampleFolder\EXAMPLE101_HELLO\obj\Debug\net6.0\EXAMPLE101_HELLO.csproj.AssemblyReference.cache
+C:\Users\N\Desktop\Разработчик файлы\ExampleFolder\EXAMPLE101_HELLO\obj\Debug\net6.0\EXAMPLE101_HELLO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N\Desktop\Разработчик файлы\ExampleFolder\EXAMPLE101_HELLO\obj\Debug\net6.0\EXAMPLE101_HELLO.AssemblyInfoInputs.cache
+C:\Users\N\Desktop\Разработчик файлы\ExampleFolder\EXAMPLE101_HELLO\obj\Debug\net6.0\EXAMPLE101_HELLO.AssemblyInfo.cs
+C:\Users\N\Desktop\Разработчик файлы\ExampleFolder\EXAMPLE101_HELLO\obj\Debug\net6.0\EXAMPLE101_HELLO.csproj.CoreCompileInputs.cache
+C:\Users\N\Desktop\Разработчик файлы\ExampleFolder\EXAMPLE101_HELLO\obj\Debug\net6.0\EXAMPLE101_HELLO.dll
+C:\Users\N\Desktop\Разработчик файлы\ExampleFolder\EXAMPLE101_HELLO\obj\Debug\net6.0\refint\EXAMPLE101_HELLO.dll
+C:\Users\N\Desktop\Разработчик файлы\ExampleFolder\EXAMPLE101_HELLO\obj\Debug\net6.0\EXAMPLE101_HELLO.pdb
+C:\Users\N\Desktop\Разработчик файлы\ExampleFolder\EXAMPLE101_HELLO\obj\Debug\net6.0\EXAMPLE101_HELLO.genruntimeconfig.cache
+C:\Users\N\Desktop\Разработчик файлы\ExampleFolder\EXAMPLE101_HELLO\obj\Debug\net6.0\ref\EXAMPLE101_HELLO.dll
